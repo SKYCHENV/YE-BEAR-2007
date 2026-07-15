@@ -1,0 +1,16 @@
+{
+    "ok":  true,
+    "spriteVersionNumber":  2,
+    "run_dir":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run",
+    "spritesheet":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\final\\spritesheet-extended.webp",
+    "validation":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\final\\validation-extended.json",
+    "chroma_despill":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\chroma-despill-extended.json",
+    "contact_sheet":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\contact-sheet-extended.png",
+    "direction_sheet":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\look-directions.png",
+    "direction_semantics":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\direction-semantics.json",
+    "blind_direction_validation":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\direction-blind-validation.json",
+    "blind_review_resolution":  null,
+    "continuity":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\look-continuity.json",
+    "review":  "C:\\Users\\admin\\Documents\\Codex\\2026-07-14\\hatch-pet-c-users-admin-codex\\work\\varsity-bear-run\\qa\\review.json",
+    "package":  "C:\\Users\\admin\\.codex\\pets\\varsity-bear"
+}
